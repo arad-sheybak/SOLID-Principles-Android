@@ -43,15 +43,15 @@ These principles improve code readability, maintainability, and scalability in l
 ---
 
 ## 📂 Project Structure
-SOLID-Principles-Android/
-├── app/
-├── feature-srp-user/
-├── feature-ocp-payment/
-├── feature-lsp-auth/
-├── feature-isp-feed/
-├── feature-dip-notification/
-├── build.gradle.kts
-└── settings.gradle.kts
+    SOLID-Principles-Android/
+    ├── app/
+    ├── feature-srp-user/
+    ├── feature-ocp-payment/
+    ├── feature-lsp-auth/
+    ├── feature-isp-feed/
+    ├── feature-dip-notification/
+    ├── build.gradle.kts
+    └── settings.gradle.kts
 
 
 ---
