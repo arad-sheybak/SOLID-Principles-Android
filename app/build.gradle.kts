@@ -40,6 +40,11 @@ android {
 }
 
 dependencies {
+    implementation(project(":feature-srp-user"))
+    implementation(project(":feature-ocp-payment"))
+    implementation(project(":feature-lsp-auth"))
+    implementation(project(":feature-isp-feed"))
+    implementation(project(":feature-dip-notification"))
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
